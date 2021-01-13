@@ -1,0 +1,20 @@
+{
+  "name": "custom-event-filters",
+  "version": "1.1.0",
+  "description": "This is a microservice to get events with custom filters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "author": "Bismark Colombia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
