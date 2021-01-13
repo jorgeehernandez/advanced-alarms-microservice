@@ -1,4 +1,4 @@
-# Advanced filter alarms microservice  fro Cumulocity IoT platform
+# Advanced filter alarms microservice  for Cumulocity IoT platform
 
 ### Request structure  
 
