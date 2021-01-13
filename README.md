@@ -1,4 +1,4 @@
-# Custom events microservice  
+# Advanced filter alarms microservice  fro Cumulocity IoT platform
 
 ### Request structure  
 
